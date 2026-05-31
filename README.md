@@ -1,5 +1,6 @@
 # COI-Detector
 Detect conflicts of interest and hidden bias in online articles using AI-powered analysis. Quickly scan webpages for disclosures, sponsorships, and funding statements with clear, readable summaries.
+
 <img width="530" height="311" alt="Screenshot 2026-05-27 204921" src="https://github.com/user-attachments/assets/e4492b30-a6a7-4006-898a-a34710f0c5f0" />
 <img width="1662" height="911" alt="COI-Animation" src="https://github.com/user-attachments/assets/9f539ad4-32f8-4132-ac63-2c84099edbd1" />
 <img width="533" height="310" alt="Screenshot 2026-05-27 204813" src="https://github.com/user-attachments/assets/32b8c6e9-896f-4b7e-9017-b529d0c5a26b" />
