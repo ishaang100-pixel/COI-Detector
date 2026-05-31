@@ -13,7 +13,7 @@ When a user clicks **“Analyze Current Article,”** the extension scrapes the 
 
 Detected COI statements are automatically highlighted on the article page. Users can click highlighted sections to open interactive tooltips containing AI-generated explanations describing why the statement may represent a potential conflict of interest.
 ## Motivation to Build
-Media consumers rarely notice conflict of interest disclosures buried in research papers and news articles and the implications aren't always clear. The COI Detector makes these disclosures impossible to miss by highlighting them directly on the page and explaining in plain language why each one matters to emphasize financial and literary transparency and awareness for all people.
+Media consumers rarely notice conflict of interest disclosures buried in research papers and news articles and the implications aren't always clear. The Conflict of Interest Detector makes these disclosures impossible to miss by highlighting them directly on the page and explaining in plain language why each one matters to emphasize financial and literary transparency and awareness for all people.
 
 ## Tech Stack
 - JavaScript
