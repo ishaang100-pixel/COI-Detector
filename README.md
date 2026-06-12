@@ -23,6 +23,7 @@ Media consumers rarely notice conflict of interest disclosures buried in researc
 - Cloudflare Workers
 - Chrome Messaging API
 - DOM manipulation and parsing
+- TreeWalker API for complex sites
 
 ## Installation Guide
 - Clone or download this repository
