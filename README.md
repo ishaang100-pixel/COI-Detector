@@ -1,9 +1,14 @@
 # Conflict-of-Interest-Detector
 Detect conflicts of interest and hidden bias in online articles using AI-powered analysis. Quickly scan webpages for disclosures, sponsorships, and funding statements with clear, readable summaries.
+
 <img width="532" height="307" alt="Screenshot 2026-06-16 171720" src="https://github.com/user-attachments/assets/f0307674-fae7-49c4-a283-d12fc43ded6a" />
+
 <img width="535" height="310" alt="Screenshot 2026-06-16 171748" src="https://github.com/user-attachments/assets/25881bc7-4ce9-4cc3-860a-0a07263b973a" />
+
 <img width="532" height="366" alt="Screenshot 2026-06-16 171814" src="https://github.com/user-attachments/assets/83ddf824-9e77-4c09-a1a3-cd78ae18f14e" />
+
 <img width="957" height="457" alt="Screenshot 2026-06-16 171943" src="https://github.com/user-attachments/assets/887593c7-2a1c-4069-ac23-f5a44265002b" />
+
 <img width="1906" height="942" alt="Animation" src="https://github.com/user-attachments/assets/ba73cad3-d47d-488c-acac-6c79dc2c4edb" />
 
 
