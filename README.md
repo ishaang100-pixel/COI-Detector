@@ -1,10 +1,12 @@
 # Conflict-of-Interest-Detector
 Detect conflicts of interest and hidden bias in online articles using AI-powered analysis. Quickly scan webpages for disclosures, sponsorships, and funding statements with clear, readable summaries.
+<img width="532" height="307" alt="Screenshot 2026-06-16 171720" src="https://github.com/user-attachments/assets/f0307674-fae7-49c4-a283-d12fc43ded6a" />
+<img width="535" height="310" alt="Screenshot 2026-06-16 171748" src="https://github.com/user-attachments/assets/25881bc7-4ce9-4cc3-860a-0a07263b973a" />
+<img width="532" height="366" alt="Screenshot 2026-06-16 171814" src="https://github.com/user-attachments/assets/83ddf824-9e77-4c09-a1a3-cd78ae18f14e" />
+<img width="957" height="457" alt="Screenshot 2026-06-16 171943" src="https://github.com/user-attachments/assets/887593c7-2a1c-4069-ac23-f5a44265002b" />
+<img width="1906" height="942" alt="Animation" src="https://github.com/user-attachments/assets/ba73cad3-d47d-488c-acac-6c79dc2c4edb" />
 
-<img width="530" height="311" alt="Screenshot 2026-05-27 204921" src="https://github.com/user-attachments/assets/e4492b30-a6a7-4006-898a-a34710f0c5f0" />
-<img width="1662" height="911" alt="COI-Animation" src="https://github.com/user-attachments/assets/9f539ad4-32f8-4132-ac63-2c84099edbd1" />
-<img width="533" height="310" alt="Screenshot 2026-05-27 204813" src="https://github.com/user-attachments/assets/32b8c6e9-896f-4b7e-9017-b529d0c5a26b" />
-<img width="704" height="489" alt="Screenshot 2026-05-27 204835" src="https://github.com/user-attachments/assets/e57fa794-4c3a-461e-92df-c862d9ea2eb1" />
+
 ## How It Works
 
 The Conflict of Interest Detector is a Chrome extension that uses the Anthropic LLM API to analyze online articles and research papers for potential conflicts of interest (COI) and disclosure statements.
